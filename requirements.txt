@@ -1,0 +1,10 @@
+# Requirements for the face recognition project
+# Install with: python -m pip install -r requirements.txt
+
+insightface
+onnxruntime
+opencv-python
+numpy
+
+# Optional: If you have an NVIDIA GPU and want GPU support,
+# replace `onnxruntime` with `onnxruntime-gpu` (matching your CUDA version).
