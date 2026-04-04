@@ -239,11 +239,3 @@ project/
 * **InsightFace** for face detection & embeddings
 * **OpenCV** for real‑time video processing
 
----
-
-## 📞 Support
-
-Need improvements, optimizations, or a GUI version? Reach out using the contact details below.
-
-* **Email:** [kadamamit462@gmail.com](mailto:kadamamit462@gmail.com)
-* **Instagram:** [@piyush_kadam96k](https://instagram.com/piyush_kadam96k)
